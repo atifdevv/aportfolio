@@ -172,18 +172,18 @@ p{
     gap: 2rem;
     text-align: center;
     height: 14vh;
-    background: var(--gray-clr);
-    border: .6rem solid var(--blue-clr);
+    background: var(--black-bg);
+    border: .2rem solid var(--blue-clr);
     
 }
 
 .links{
-    color: var(--blue-clr);
+    color: var(--white-clr);
     font-size: 1.4rem;
 }
 
 .h1{
-    color: var(--blue-clr);
+    color: var(--black-bg);
     font-size: 3rem;
     max-width: 900px;
     text-align: center;
@@ -404,7 +404,7 @@ transition: .3s ease-in-out;
 }
 
 .links{
-    color: var(--black-bg);
+    color: var(--white-clr);
 }
 
 .navlist{
@@ -442,5 +442,6 @@ transition: .3s ease-in-out;
     background: var(--black-bg);
 }
 }
+
 
 
