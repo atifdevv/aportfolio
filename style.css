@@ -486,6 +486,10 @@ background: black;
         flex-direction: column;
     }
 
+    .main{
+    background: black;
+        position:relative;
+    }
     .main .hamburger .burger{
         background: black;
     }
@@ -498,5 +502,6 @@ background: black;
     
 
 }
+
 
 
