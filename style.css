@@ -426,7 +426,7 @@ background: black;
     letter-spacing: 1px;
   }
 
-  .h1 span{
+  h1 span{
     display: block;     
   }
 
@@ -488,6 +488,7 @@ background: black;
 
     .main h1{
     color: var(--black-bg);
+        display:none;
   }
     
     .main .hamburger{
@@ -498,6 +499,7 @@ background: black;
     
 
 }
+
 
 
 
