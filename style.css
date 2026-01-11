@@ -486,9 +486,9 @@ background: black;
         flex-direction: column;
     }
 
-    .main .hamburger .burger{
-        background: black;
-    }
+    .main h1{
+    color: var(--white-clr);
+  }
     
     .main .hamburger{
         position: absolute;
@@ -498,5 +498,6 @@ background: black;
     
 
 }
+
 
 
