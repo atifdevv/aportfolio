@@ -441,6 +441,8 @@ background: black;
     height: 95vh;
     width: 80%;
     margin: auto;
+        position: relative;
+      
 }
 
 .links{
@@ -498,5 +500,6 @@ background: black;
     
 
 }
+
 
 
