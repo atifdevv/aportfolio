@@ -441,8 +441,6 @@ background: black;
     height: 95vh;
     width: 80%;
     margin: auto;
-        position: relative;
-      
 }
 
 .links{
@@ -489,17 +487,16 @@ background: black;
     }
 
     .main .hamburger .burger{
-        background: var(--black-bg);
+        background: black;
     }
     
     .main .hamburger{
         position: absolute;
-        right: 50px;
+        right: 0px;
         top: 25px;
     }
     
 
 }
-
 
 
