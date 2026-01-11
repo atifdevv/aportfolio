@@ -189,6 +189,7 @@ p{
     max-width: 900px;
     text-align: center;
     margin: auto;
+    padding-top: 3rem;
 }
 .btn-container{
     display: flex;
@@ -484,6 +485,18 @@ background: black;
  .container{
         flex-direction: column;
     }
+
+    .main .hamburger .burger{
+        background: var(--black-bg);
+    }
+    
+    .main .hamburger{
+        position: absolute;
+        right: 50px;
+        top: 25px;
+    }
+    
+
 }
 
 
