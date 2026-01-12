@@ -426,7 +426,7 @@ background: black;
     letter-spacing: 1px;
   }
 
-  h1 span{
+  .h1 span{
     display: block;     
   }
 
@@ -486,21 +486,25 @@ background: black;
         flex-direction: column;
     }
 
-    .main h1{
-    color: var(--black-bg);
-        display:none;
+.h1{
+    display: none;
+    font-size: 1px;
   }
-    
     .main .hamburger{
         position: absolute;
         right: 0px;
-        top: 25px;
+        top: 25px;        
+    }
+
+    .main .hamburger .burger{
+        background: var(--black-bg);
+    }
+
+    .inner-container{
+        margin-top: 2rem;
     }
     
 
 }
-
-
-
 
 
